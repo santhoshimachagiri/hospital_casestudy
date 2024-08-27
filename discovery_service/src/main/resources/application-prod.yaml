@@ -1,0 +1,7 @@
+app:
+  name: Discovery Service
+  description: Discovery Service
+  version: 1.0.0
+
+server:
+  port: 8761
